@@ -1,4 +1,4 @@
-package com.clinic.DentalClinicApplication.models.utils;
+package com.clinic.DentalClinicApplication.services;
 
 import com.clinic.DentalClinicApplication.repositories.UserRepository;
 import lombok.RequiredArgsConstructor;
